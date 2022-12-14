@@ -19,8 +19,8 @@ const Card = ({ pokemon, loading }) => {
                         )
                     })
             }
-
-        </>
+            </>
+        
     )
 }
 export default Card;
